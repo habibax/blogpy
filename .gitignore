@@ -1,0 +1,4 @@
+#migrations
+blog/migrations/
+#database
+db.sqlite3
